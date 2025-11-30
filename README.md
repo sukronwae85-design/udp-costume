@@ -1,4 +1,5 @@
 # UDP Custom Script
+untuk auto install semuanya salin ini ya wget -q https://raw.githubusercontent.com/sukronwae85-design/udp-costume/main/install.sh
 
 Script lengkap untuk management SSH, Vmess, Vless, Trojan dengan fitur auto backup, monitoring, dan bandwidth management.
 
